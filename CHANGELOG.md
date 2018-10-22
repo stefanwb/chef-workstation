@@ -1,9 +1,19 @@
-<!-- latest_release 0.2.25 -->
+<!-- latest_release 0.2.27 -->
+## [0.2.27](https://github.com/chef/chef-workstation/tree/0.2.27) (2018-10-22)
+
+#### Merged Pull Requests
+- Display workstation version in `chef -v` [#304](https://github.com/chef/chef-workstation/pull/304) ([jonsmorrow](https://github.com/jonsmorrow))
+<!-- latest_release -->
+
+## [0.2.26](https://github.com/chef/chef-workstation/tree/0.2.26) (2018-10-22)
+
+#### Merged Pull Requests
+- Switch from using git submodules to ignored folders for www dependencies [#305](https://github.com/chef/chef-workstation/pull/305) ([schisamo](https://github.com/schisamo))
+
 ## [0.2.25](https://github.com/chef/chef-workstation/tree/0.2.25) (2018-10-19)
 
 #### Merged Pull Requests
 - Fix uninstall on troubleshooting [#302](https://github.com/chef/chef-workstation/pull/302) ([jonsmorrow](https://github.com/jonsmorrow))
-<!-- latest_release -->
 
 ## [0.2.24](https://github.com/chef/chef-workstation/tree/0.2.24) (2018-10-19)
 
